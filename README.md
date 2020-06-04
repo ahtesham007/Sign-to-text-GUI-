@@ -11,4 +11,4 @@ Based on Deep Learning Provide Assistant to deaf & dumb who have communication i
 
 # Demo
 
-![Project_Demo](https://drive.google.com/file/d/1h1GtUxBAost03dl9-O0mznob6DEmQ4vX/view?usp=sharing)
+![Project_Demo]()
