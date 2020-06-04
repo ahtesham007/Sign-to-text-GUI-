@@ -11,4 +11,6 @@ Based on Deep Learning Provide Assistant to deaf & dumb who have communication i
 
 # Demo
 
-![Project_Demo]()
+![Project_Demo](https://github.com/ahtesham007/Sign-to-text-GUI-/blob/master/intro.png)
+
+![Project_Demo](https://github.com/ahtesham007/Sign-to-text-GUI-/blob/master/sign.png)
