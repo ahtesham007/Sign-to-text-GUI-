@@ -1,4 +1,4 @@
-# Sign-to-text-GUI-
+# Deaf & Dumb Assistant
 A complete Project for dumb & deaf having hearing impairment. Deaf & Dumb Assistant.
 
 Models used in this project are available here :
