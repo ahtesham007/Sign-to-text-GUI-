@@ -1,4 +1,4 @@
-# Deaf & Dumb Assistant
+# Deaf & Mute Assistant
 A complete Project for dumb & deaf having hearing impairment. Deaf & Dumb Assistant.
 
 Models used in this project are available here :
